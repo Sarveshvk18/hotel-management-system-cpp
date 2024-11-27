@@ -1,0 +1,7 @@
+admin admin admin 1
+durai@gmail.com durai 12345 0 100009 100010
+jaya@gmail.com jaya 12345 0 100017 100018
+sarves@mail.com sarvesh 34567 0 100015 100016
+sarvesh Sarvesh3 123 0 100011 100012
+sarvesh@gmail.com sarvesh 12345 0 100000 100013 100014
+vijay@gmail.com vijay 12345 0 100019 100020
